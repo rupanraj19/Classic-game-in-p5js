@@ -26,20 +26,6 @@
 </div>
 
 <div class="image-gallery">
-  <img src="images/1.png" alt="Image 1">
-  <img src="images/2.png" alt="Image 2">
-  <img src="images/3.png" alt="Image 3">
+  <img src="images/1.png" alt="Image 1"><img src="images/2.png" alt="Image 2"><img src="images/3.png" alt="Image 3">
 </div>
 
-.image-gallery {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: center;
-}
-
-.image-gallery img {
-  width: 200px; /* Set a uniform width */
-  height: 150px; /* Set a uniform height */
-  object-fit: cover;
-  margin: 10px;
-}
