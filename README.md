@@ -25,7 +25,8 @@
   <p>p5js library</p>
 </div>
 
-<div class="image-gallery">
-  <img src="images/1.png" alt="Image 1"><img src="images/2.png" alt="Image 2"><img src="images/3.png" alt="Image 3">
+<div style="display: flex; flex-wrap: nowrap; justify-content: center;">
+  <img src="images/1.png" alt="Image 1" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;">
+  <img src="images/2.png" alt="Image 2" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;">
+  <img src="images/3.png" alt="Image 3" style="width: 200px; height: 150px; object-fit: cover; margin: 10px;">
 </div>
-
