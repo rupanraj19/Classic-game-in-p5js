@@ -26,7 +26,7 @@
 </div>
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: center;">
-  <img src="images/1.png" alt="Image 1" style="width: 350px; height: 200px; object-fit: cover; margin: 10px;">
-  <img src="images/2.png" alt="Image 2" style="width: 350px; height: 200px; object-fit: cover; margin: 10px;">
-  <img src="images/3.png" alt="Image 3" style="width: 350px; height: 200px; object-fit: cover; margin: 10px;">
+  <img src="images/1.png" alt="Image 1" style="width: 300px; height: 200px; object-fit: cover; margin: 10px;">
+  <img src="images/2.png" alt="Image 2" style="width: 300px; height: 200px; object-fit: cover; margin: 10px;">
+  <img src="images/3.png" alt="Image 3" style="width: 300px; height: 200px; object-fit: cover; margin: 10px;">
 </div>
