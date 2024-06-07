@@ -24,3 +24,9 @@
   <h3>Built with</h3>
   <p>p5js library</p>
 </div>
+
+<div>
+  <img src="images/1.png">
+  <img src="images/2.png">
+  <img src="images/3.png">
+</div>
